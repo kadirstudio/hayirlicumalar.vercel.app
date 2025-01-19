@@ -1,6 +1,7 @@
 ## 📑 Hayırlı Cumalar Sitesi 
 
-- [x] 15 Star'da Altyapı Paylaşılacak
+- [x] Whatasapp'dan Mesajları Paylaşabilme
+- [x] Mesajları Çoğaltma 
 - [x] Site İçin [Buraya Tıkla](https://hayirlicumalar.vercel.app)
 
 
